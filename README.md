@@ -1,6 +1,6 @@
-# YOURLS Favicon Plugin
+# YOURLS Favicon Plugin [![Listed in Awesome YOURLS!](https://img.shields.io/badge/Awesome-YOURLS-C5A3BE)](https://github.com/YOURLS/awesome-yourls/)
 
-Displays a fancy YOURLS favicon in all flavors (Chrome, Safari, Android...)
+> Displays a fancy YOURLS favicon in all flavors (Chrome, Safari, Android...)
 
 Requires [YOURLS](https://yourls.org) `1.7.10` and above.
 
